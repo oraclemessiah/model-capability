@@ -60,3 +60,18 @@ capability = ea.calculate_capability(data)
 ## License
 
 MIT
+
+---
+
+## Related Research
+
+See also:
+- [Entropy Theory](https://github.com/oraclemessiah/entropy-theory)
+- [Privacy as Capability](https://github.com/oraclemessiah/privacy-capability)  
+- [Cognitive Liberty](https://github.com/oraclemessiah/cognitive-liberty)
+
+## Topics
+AI Safety, Machine Learning, Information Theory, Entropy, Neural Networks, Philosophy of Mind
+
+---
+*Part of the AI Alignment Research Network*
